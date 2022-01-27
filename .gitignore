@@ -1,0 +1,9 @@
+/images/
+/cropped_masks/
+/videos/
+
+.idea/
+
+__pycache__/
+
+output/
